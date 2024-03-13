@@ -174,3 +174,36 @@ color: blue;
 padding: 15px;
 border-radius: 25px;
 }
+
+.box-model{
+    margin: 20px;
+    background-color: aquamarine;
+    padding: 15px 25px;
+    border: 2px solid red;
+    width: 200px;
+    height: 400px;
+}
+
+.box-model-2{
+    margin: 10px;
+    background-color: antiquewhite;
+    padding: 25px 30px;
+    border: 2px solid #55a398;
+    width: 300px;
+    height: 350px;
+    outline: 2px dotted #072bf8;
+}
+
+#p1{
+    background-color: #f8cbcb;
+}
+
+#p2{
+background-color: rgb(218, 168, 211);
+}
+
+h2{
+    color: #a5f;
+    text-align: center;
+}
+
